@@ -1,0 +1,45 @@
+{
+  "quotes": {
+    "oak": "It is vain, if we plant an oak, to hope to shelter soon under its foliage.",
+    "think": "L'important n'est pas de convaincre, mais de donner à réfléchir."
+  },
+  "btn": {
+    "github-repo": "GitHub repository",
+    "home": "Home",
+    "overview": "Overview",
+    "internals": "Internals",
+    "download": "Download",
+    "user-manual": "User manual",
+    "progress": "Work in progress",
+    "apps": "Apps & Libraries",
+    "mini": "Mini projects",
+    "website": "Personal website"
+  },
+  "home": {
+    "welcome": "Welcome",
+    "plot": "I build those few web-pages to keep track of my IT projects, documentations and present my work to those interested.",
+    "p1": "Welcome on my personal page. I’m Fabien B., enthusiast system developer. I build those pages as a portfolio for the program/apps I’m developing. My biggest project is however, by far, my personal operating system. The project is still really immature, but most of all, developing a complete operating system takes a freaking amount of times. Doesn't matter, I enjoy developing it.",
+    "p2": "I'm both comfortable on really low-level, assembly and close to the hardware. As on high-level, designing web-apps, desktop software’s, or large scalable systems. Of course I am more comfortable on some level than other, (always more interested on backend side) but I like to keep track of everything and understand how pieces fits together.",
+    "p3": "Anyway, Thanks for the interest you have for my website."
+  },
+  "mini": {
+    "tree": {
+      "name": "Growing Tree",
+      "plot": "This is a dummy program made to draw a simple random tree.",
+      "btn1": "Growing a tree.",
+      "btn2": "Growing a tree (using gradient)",
+      "btn3": "Growing a white tree!"
+    },
+    "satellite": {
+      "name": "Orbital station 3D",
+      "plot": "This is a dummy program that create cylindrics station module from simple 2D vectoriel path.",
+      "p1": ""
+    }
+  },
+  "kora": {
+    "plotline": "A hobbyist operating system project developed from scratch."
+  },
+  "jaks": {
+    "plotline": "Document factory and web framwork."
+  }
+}

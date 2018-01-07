@@ -1,0 +1,17 @@
+{
+  "quotes": {
+    "oak": "Es vano, si se planta un roble, de esperar resguardarse pronto bajo su follaje.",
+    "think": "L'important n'est pas de convaincre, mais de donner à réfléchir."
+  },
+  "btn": {
+    "github-repo": "GitHub repositorio",
+    "download": "Descargar",
+    "user-manual": "Manual de usuario"
+  },
+  "kora": {
+    "plotline": "Un proyecto de sistema operativo para aficionados desarrollado desde cero."
+  },
+  "jaks": {
+    "plotline": "Document factory and web framwork."
+  }
+}

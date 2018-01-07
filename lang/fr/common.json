@@ -1,0 +1,45 @@
+{
+  "quotes": {
+    "oak": "Il est vain, si l'on plante un chêne, d'espérer s'abriter bientôt sous son feuillage.",
+    "think": "L'important n'est pas de convaincre, mais de donner à réfléchir."
+  },
+  "btn": {
+    "github-repo": "GitHub dépôt",
+    "home": "Accueil",
+    "overview": "Presentation",
+    "internals": "Internals",
+    "download": "Téléchargement",
+    "user-manual": "Manuel d'utilisateur",
+    "progress": "Travail en cours",
+    "apps": "Apps & Librairies",
+    "mini": "Mini projets",
+    "website": "Site web personnel"
+  },
+  "home": {
+    "welcome": "Bienvenue",
+    "plot": "J'ai créé ces quelques pages pour garder une trace de mes projet SI et leur manuels et pour presenter mon travail à ceux que ça interesse.",
+    "p1": "Bienvenue sur mes pages personnels. Je suis Fabien B., développeur système enthousiaste. J'ai créé ces pages afin de présenter les applications que je developpe. Mon plus gros project est de loin la construction de mon système d'exploitation personnel. Le projet est encore immature mais construire un système complet est définitivement chronophage. Qu'importe si j'y prend du plasir.",
+    "p2": "Je suis un développeur comfortable à la fois dans les couche base, assembleur et proche du matériel, que dans les couche haute, tel que les sites web, les applications bureautique, ou encore les grands systèmes distribués. Bien sur je suis plus confortable sur certain aspect que d'autre, j'ai toujours été plus interessé par le code \"back-end\" mais j'aime toucher à tout et comprendre comment les différents pieces s'assemble.",
+    "p3": "Dans tous les cas, je vous remercie pour l'interêt que vous portez pour mon site web."
+  },
+  "mini": {
+    "tree": {
+      "name": "Faire pousser un arbre",
+      "plot": "Ce petit algorithme permet de reproduire un simple arbre de façon aléatoire.",
+      "btn1": "Faire pousser un arbre.",
+      "btn2": "Faire pousser un arbre (gradient)",
+      "btn3": "Faire pousser un arbre blanc!"
+    },
+    "satellite": {
+      "name": "Station orbital 3D",
+      "plot": "Il s'agit d'un petit program qui modelise des modules spatial cylindrique à partir de simple chemin vectoriel 2D.",
+      "p1": ""
+    }
+  },
+  "kora": {
+    "plotline": "Un projet de système d'exploitation amateur développé à partir de zéro."
+  },
+  "jaks": {
+    "plotline": "Document factory and web framwork."
+  }
+}
