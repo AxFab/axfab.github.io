@@ -5,8 +5,23 @@
   },
   "btn": {
     "github-repo": "GitHub repositorio",
+    "home": "Acogida",
+    "overview": "Presentación",
+    "internals": "Internals",
     "download": "Descargar",
-    "user-manual": "Manual de usuario"
+    "user-manual": "Manual de usuario",
+    "progress": "Trabajo en curso",
+    "apps": "Apps & Librerías",
+    "mini": "Mini proyectos",
+    "website": "Sitio Web personal"
+  },
+  "home": {
+  },
+  "mini": {
+    "tree": {
+    },
+    "satellite": {
+    }
   },
   "kora": {
     "plotline": "Un proyecto de sistema operativo para aficionados desarrollado desde cero."

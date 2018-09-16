@@ -6,7 +6,7 @@
   "btn": {
     "github-repo": "GitHub dépôt",
     "home": "Accueil",
-    "overview": "Presentation",
+    "overview": "présentersentation",
     "internals": "Internals",
     "download": "Téléchargement",
     "user-manual": "Manuel d'utilisateur",
@@ -17,9 +17,9 @@
   },
   "home": {
     "welcome": "Bienvenue",
-    "plot": "J'ai créé ces quelques pages pour garder une trace de mes projet SI et leur manuels et pour presenter mon travail à ceux que ça interesse.",
-    "p1": "Bienvenue sur mes pages personnels. Je suis Fabien B., développeur système enthousiaste. J'ai créé ces pages afin de présenter les applications que je developpe. Mon plus gros project est de loin la construction de mon système d'exploitation personnel. Le projet est encore immature mais construire un système complet est définitivement chronophage. Qu'importe si j'y prend du plasir.",
-    "p2": "Je suis un développeur comfortable à la fois dans les couche base, assembleur et proche du matériel, que dans les couche haute, tel que les sites web, les applications bureautique, ou encore les grands systèmes distribués. Bien sur je suis plus confortable sur certain aspect que d'autre, j'ai toujours été plus interessé par le code \"back-end\" mais j'aime toucher à tout et comprendre comment les différents pieces s'assemble.",
+    "plot": "J'ai créé ces quelques pages pour garder une trace de mes projet SI et leurs manuels et pour présenter mon travail à ceux que ça interesse.",
+    "p1": "Bienvenue sur mes pages personnels. Je suis Fabien B., développeur système enthousiaste. J'ai créé ces pages afin de présenter les applications que je developpe. Mon plus gros project est de loin la construction de mon système d'exploitation personnel. Le projet n'est pas encore très mature mais construire un système complet est définitivement chronophage. Qu'importe si j'y prend du plasir.",
+    "p2": "Je suis un développeur comfortable à la fois dans les couches basses, assembleur et proche du matériel, que dans les couches hautes, tel que les sites web, les applications bureautiques, ou encore les grands systèmes distribués. Bien sur je suis plus confortable sur certains aspects que d'autres, j'ai toujours été plus interessé par le code \"back-end\" mais j'aime toucher à tout et comprendre comment les différents pièces s'assemble.",
     "p3": "Dans tous les cas, je vous remercie pour l'interêt que vous portez pour mon site web."
   },
   "mini": {
